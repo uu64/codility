@@ -1,6 +1,6 @@
 import sys
 
-sys.setrecursionlimit(50000)
+sys.setrecursionlimit(500000)
 memo = {}
 
 def solution(A):
